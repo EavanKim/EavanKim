@@ -1,4 +1,10 @@
-### Hi there 👋
+# C++을 좋아하는 사람입니다.
+
+#### 원리에 대한 내용을 좋아합니다.
+#### 당연하게 쓰는 것들을 직접 만들어보기를 좋아합니다.
+
+### 목표
+#### C++에 대해 누군가에게 알려줄 수 있는 사람이 되기
 
 <!--
 **EavanKim/EavanKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
